@@ -1,8 +1,0 @@
-print("Spacetime-AI-Engine-Chronosyncore v0.1")
-print("AI Clock      8.1 ns GPS error")
-print("HPC Ray       4096×4096 black-hole")
-print("Quantum Tick  2-qubit τ = 0.994")
-print("Fusion Demo   demo.gif saved")
-print("")
-print("ALL DEMOS WORK!")
-print("Pick an Issue → replace a line → become co-author")
